@@ -5,9 +5,7 @@ module.exports = {
     entry: './src/index',
     output: {
         path: path.join(__dirname, 'dist'),
-        filename: 'app.bundle.js',
-        libraryTarget: 'umd',
-        umdNamedDefine: true
+        filename: 'app.bundle.js'
     },
     resolve: {
         extensions: ['*', '.js', '.jsx'],

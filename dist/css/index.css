@@ -1,0 +1,27 @@
+.page {
+  margin: 0 auto;  
+  width: 500px;
+}
+
+.board {
+  padding-top: 1em;
+}
+
+.square {
+  border: solid 1px wheat;
+  margin: -1px;
+  min-height: 10px;
+  cursor: pointer;
+}
+
+.blue {
+  background: #afceff;
+}
+
+.red {
+  background: #f9cfbd;
+}
+
+.green {
+  background: #c8f9ac;
+}
