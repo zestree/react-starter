@@ -4,6 +4,9 @@
 2. run: 'yarn' or 'npm install'
 3. run: 'yarn start' or 'npm start', then browse to: http://localhost:9000
 
+online version:
+https://stackblitz.com/edit/react-board-101
+
 jsBin:
 https://jsbin.com/zonotuf/edit?html,css,js,output
 
